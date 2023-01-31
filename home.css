@@ -89,4 +89,11 @@ transition: 0.5s;
     height:90vh ;
   }
 }
+@media(min-width:1181px){
+  .welcome-section{
+    padding:2rem 20%;
+    font-size: 15px;
+    height:100vh ;
+  }
+}
 
